@@ -26,38 +26,38 @@
 
 **TECHNICAL SKILLS**
 
-		**Languages**	GoLang(Google Language),C, C++, Python, Java
+ **Languages**	GoLang(Google Language),C, C++, Python, Java
 
-		**FrameWorks:**	Nodejs
+ **FrameWorks:**	Nodejs
 
-		**Development tools**	Ubuntu, Eclipse,Netbeans, Dreamweaver, Cisco Packet   Tracer, Wireshark, GitHub, MacOS, Atom, Sublime(2/3),Vi, Postman,RabbitMQ 
+ **Development tools**	Ubuntu, Eclipse,Netbeans, Dreamweaver, Cisco Packet   Tracer, Wireshark, GitHub, MacOS, Atom, Sublime(2/3),Vi, Postman,RabbitMQ 
 
-		**Databases**	Mysql, NOsql, Neo4j(Graph DB),Cassandra,MongoDB
+ **Databases**	Mysql, NOsql, Neo4j(Graph DB),Cassandra,MongoDB
 
-		**Third Party API&#39;s** : RestFul API&#39;s(Development+Integration), JSON, Facebook Graph API, Twitter API, Goibibo and Yatra API&#39;s.
+ **Third Party API&#39;s** : RestFul API&#39;s(Development+Integration), JSON, Facebook Graph API, Twitter API, Goibibo and Yatra API&#39;s.
 
-		**Operations**	JIRA (Agile)
+ **Operations**	JIRA (Agile)
 
 **ACADEMIC PROJECT** 
 
-		**MOVIE RECOMMENDER**	**Tagging-Based Improved Recommender System**
-		 
-		Thesis Link:- [**http://tinyurl.com/jherrte**]
+ **MOVIE RECOMMENDER**	**Tagging-Based Improved Recommender System**
+ 
+ Thesis Link:- [**http://tinyurl.com/jherrte**]
 
 **OTHER PROJECTS** [**https://github.com/shivendra-it**]
 
-		1)**WARRIOR** (Developed a highly functioning, vivid and dynamic game under  guidance of Marc Vaz (Senior GPU architect at NVIDIA))
-		[**http://www.codeskulptor.org/#user40\_SZOrKoglUP6ddMr.py**]
+ 1)**WARRIOR** (Developed a highly functioning, vivid and dynamic game under  guidance of Marc Vaz (Senior GPU architect at NVIDIA))
+ [**http://www.codeskulptor.org/#user40\_SZOrKoglUP6ddMr.py**]
 
-	 	2) Live Twitter Trends Streaming and analysis.
+ 2) Live Twitter Trends Streaming and analysis.
 
-		3) CSV to XLSX and JSON  to XLSX converter.
+ 3) CSV to XLSX and JSON  to XLSX converter.
 
-		4) Shell script to give complete linux system properties (hardware   and software included).
+ 4) Shell script to give complete linux system properties (hardware   and software included).
 
-		5) Various web apps using Nodejs and socket.io (chat apps, games etc.)
+ 5) Various web apps using Nodejs and socket.io (chat apps, games etc.)
 
-		6) Created a highly advanced server using goroutines and worker queue in Go,which can handle 1 million request per minute.
+ 6) Created a highly advanced server using goroutines and worker queue in Go,which can handle 1 million request per minute.
 
 **ACHIEVEMENTS**
 
